@@ -1,0 +1,77 @@
+Token: { type = 'ID          ', code = 'class ' }
+Token: { type = 'ID          ', code = 'Token ' }
+Token: { type = 'Punctuation ', code = '{' }
+Token: { type = 'BlockNote   ', code = '/**
+     * this is a block note
+     */' }
+Token: { type = 'ID          ', code = 'public ' }
+Token: { type = 'ID          ', code = 'static ' }
+Token: { type = 'ID          ', code = 'void ' }
+Token: { type = 'ID          ', code = 'test(' }
+Token: { type = 'ID          ', code = 'int ' }
+Token: { type = 'ID          ', code = 'state)' }
+Token: { type = 'Punctuation ', code = '{' }
+Token: { type = 'ID          ', code = 'switch ' }
+Token: { type = 'Punctuation ', code = '(' }
+Token: { type = 'ID          ', code = 'state)' }
+Token: { type = 'Punctuation ', code = '{' }
+Token: { type = 'ID          ', code = 'case ' }
+Token: { type = 'Number      ', code = '7:' }
+Token: { type = 'Note        ', code = '// TODO: 2017/10/24 this is a line note
+' }
+Token: { type = 'ID          ', code = 'break;' }
+Token: { type = 'ID          ', code = 'case ' }
+Token: { type = 'Number      ', code = '8:' }
+Token: { type = 'ID          ', code = 'if ' }
+Token: { type = 'Punctuation ', code = '(' }
+Token: { type = 'ID          ', code = 'c ' }
+Token: { type = 'Operator    ', code = '=' }
+Token: { type = 'Operator    ', code = '=' }
+Token: { type = 'Other       ', code = ''' }
+Token: { type = 'UNKNOWN     ', code = '/'', error = FAIL TO ANALYSE }
+Token: { type = 'Other       ', code = ''' }
+Token: { type = 'Punctuation ', code = ')' }
+Token: { type = 'Punctuation ', code = '{' }
+Token: { type = 'ID          ', code = 'analyse(' }
+Token: { type = 'Number      ', code = '9,' }
+Token: { type = 'ID          ', code = 'word.' }
+Token: { type = 'ID          ', code = 'add(' }
+Token: { type = 'ID          ', code = 'c)' }
+Token: { type = 'Punctuation ', code = ',' }
+Token: { type = 'ID          ', code = 'index ' }
+Token: { type = 'Operator    ', code = '+' }
+Token: { type = 'Number      ', code = '1)' }
+Token: { type = 'Punctuation ', code = ';' }
+Token: { type = 'Punctuation ', code = '}' }
+Token: { type = 'ID          ', code = 'else ' }
+Token: { type = 'Punctuation ', code = '{' }
+Token: { type = 'ID          ', code = 'tokens.' }
+Token: { type = 'ID          ', code = 'add(' }
+Token: { type = 'ID          ', code = 'new ' }
+Token: { type = 'ID          ', code = 'Token(' }
+Token: { type = 'Number      ', code = '0,' }
+Token: { type = 'ID          ', code = 'word.' }
+Token: { type = 'ID          ', code = 'toString(' }
+Token: { type = 'Punctuation ', code = ')' }
+Token: { type = 'Punctuation ', code = ',' }
+Token: { type = 'Punctuation ', code = '"' }
+Token: { type = 'ID          ', code = 'Unable ' }
+Token: { type = 'ID          ', code = 'to ' }
+Token: { type = 'ID          ', code = 'Recognize!' }
+Token: { type = 'Punctuation ', code = '"' }
+Token: { type = 'Punctuation ', code = ')' }
+Token: { type = 'Punctuation ', code = ')' }
+Token: { type = 'Punctuation ', code = ';' }
+Token: { type = 'ID          ', code = 'analyse(' }
+Token: { type = 'Number      ', code = '0,' }
+Token: { type = 'ID          ', code = 'new ' }
+Token: { type = 'ID          ', code = 'Word(' }
+Token: { type = 'Punctuation ', code = ')' }
+Token: { type = 'Punctuation ', code = ',' }
+Token: { type = 'ID          ', code = 'index)' }
+Token: { type = 'Punctuation ', code = ';' }
+Token: { type = 'Punctuation ', code = '}' }
+Token: { type = 'ID          ', code = 'break;' }
+Token: { type = 'Punctuation ', code = '}' }
+Token: { type = 'Punctuation ', code = '}' }
+Token: { type = 'Punctuation ', code = '}' }
